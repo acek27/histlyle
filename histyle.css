@@ -1,0 +1,78 @@
+.navbar-default .navbar-nav > .active1 > a,
+.navbar-default .navbar-nav > .active1 > a:hover,
+.navbar-default .navbar-nav > .active1 > a:focus {
+  color: black;
+  background-color: white;
+}
+.btn1 {
+	font-weight: bold;
+	width: 100%;
+}
+.drop {
+	color: black;
+	margin-left: -25px;
+	padding-right: 20px;
+	font-size: 14px;
+  background-color: transparent;
+}
+.drop:hover{
+	font-weight: bold;
+}
+.drop:focus,
+.drop.focus {
+  color: #333;
+  font-weight:bold;
+}
+p.model {
+	color: black;
+}
+.btn-link1 {
+  font-weight: normal;
+  color: black;
+  font-size: 18px;
+  border-radius: 0;
+  }
+.btn-link1,
+.btn-link1:active,
+.btn-link1.active,
+.btn-link1[disabled],
+fieldset[disabled] .btn-link1 {
+  background-color: transparent;
+  -webkit-box-shadow: none;
+          box-shadow: none;
+}
+.btn-link1,
+.btn-link1:hover,
+.btn-link1:focus,
+.btn-link1:active {
+  border-color: transparent;
+}
+.btn-link1:hover,
+.btn-link1:focus {
+  color: #004d80;
+  background-color: transparent;
+}
+
+.add {
+ color: black;
+}
+.add,
+.add:active,
+.add.active,
+.add[disabled],
+fieldset[disabled] .add {
+  background-color: transparent;
+  -webkit-box-shadow: none;
+          box-shadow: none;
+}
+.add
+.add:hover,
+.add:focus,
+.add:active {
+  border-color: transparent;
+}
+.add:hover,
+.add:focus {
+  color: #4d4d4d;
+  background-color: transparent;
+}
